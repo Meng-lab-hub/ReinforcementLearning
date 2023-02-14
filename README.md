@@ -1,4 +1,4 @@
-# ReinforcementLearning Course
+# Reinforcement Learning
 - basic algorithm
 - value iteration
-- ...
+- 
